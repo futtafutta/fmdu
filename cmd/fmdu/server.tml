@@ -1,0 +1,10 @@
+[config]
+# RDB
+dbname = "demo"
+dbhost = "localhost"
+dbport = "5432"
+dbuser = "inamap"
+dbpasswd = "@Hanazono"
+
+#WEB API
+port = "6789"
